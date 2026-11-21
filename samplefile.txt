@@ -1,0 +1,4 @@
+<<<<<<< HEAD
+I am sampling stevelacy rn
+I am unsampling the sample now theres a change lol
+This line was added originally while in feature branch xd
